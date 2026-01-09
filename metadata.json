@@ -1,0 +1,8 @@
+{
+  "name": "智农科技 AgriSmart Pro - 智能农业管理系统",
+  "description": "基于 Gemini API 的全方位农业管理系统，涵盖 AI 作物诊断、实时传感器监控、天气预报及市场分析。",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
